@@ -2,13 +2,13 @@
 
 # 1. Automatic control
 ## 1.1 Elementary control theory
-### (a) Output regulation
+### a) Output regulation
 
 ## 1.2 Advanced control theory
-### (a) Interval observer
+### a) Interval observer
 
 ## 1.3 Complex dynamical systems
-### (a) Singular systems
+### a) Singular systems
 
 # 2. Pattern Recognition
 
