@@ -1,15 +1,20 @@
 # lecture-notes-and-related-code
 
-# 1. Automatic control
-## 1.1 Elementary control theory
-### a) Output regulation
+# 1. 相关基础
+# 2. 自动控制
+## 2.1 初级控制理论
+### a) 控制工程基础
+### b) 现代控制理论
+### c) 系统辨识
+### d) 输出调节
+### e) 基于LMI的控制系统分析与设计
 
-## 1.2 Advanced control theory
-### a) Interval observer
+## 2.2 高级控制理论
+### a) 区间观测器
 
-## 1.3 Complex dynamical systems
-### a) Singular systems
+## 2.3 复杂动态系统
+### a) 广义/奇异系统
 
-# 2. Pattern Recognition
+# 3. 模式识别与人工智能
 
-# 3. Robotics
+# 4. 机器人
